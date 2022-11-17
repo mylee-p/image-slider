@@ -33,6 +33,10 @@ module.exports = {
         test: /\.css$/,
         use: [MiniCssExtractPlugin.loader, "css-loader"],
       },
+      {
+        test: /\.jpeg$/, //jpeg 파일을
+        type: 'asset/inline' //webpack에 내장된 로더로 읽어들이겠다.
+      }
     ],
   },
   optimization: {
