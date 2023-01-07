@@ -3,7 +3,7 @@
 webpack boilterplate 입니다.<br><br> eslint-config-airbnb 가 적용되어있습니다. <br><br> 다운로드 혹은 git clone 하여 `npm install` 실행 후 사용하시면 됩니다.
 
 
-#### 이미지 슬라이더
+# 이미지 슬라이더
 
 <img width="1000" alt="Image" src="https://user-images.githubusercontent.com/89143892/211139891-f44f1721-d49f-459f-a296-19bca594e406.png">
 
